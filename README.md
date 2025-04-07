@@ -1,1 +1,3 @@
 # MLB_DB
+
+This project focused on transforming raw Excel data about MLB players into a fully normalized relational database. It involved analyzing and organizing player information such as personal details, salaries, positions, teams, and performance data. The design included multiple related tables like Players, Teams, Managers, and Player Salary, allowing efficient data storage and future scalability. SQL scripts were used to create, populate, and query the database, replacing manual Excel analysis with dynamic data retrieval. Challenges in normalization and table relationships were resolved, improving the design.
